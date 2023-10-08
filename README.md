@@ -15,4 +15,4 @@ Começarei a estudar e fazer projetos com:
 
 Minhas Redes Sociais:
 <br>
-<a href="https://www.instagram.com/pablo_antonio12" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+<a href="https://www.instagram.com/pablo_antonio12" target="_blank" rel="noreferrer noopener nofollow"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
